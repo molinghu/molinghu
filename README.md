@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @molinghu
-- 👀 I’m interested in：游戏开发
+- 👀 I’m interested in: Game development
 - 🌱 I’m currently learning: game development, various programming languages, Linux/Unix, various programming skills, useless knowledge
 - 💞️ I’m looking to collaborate on: Not yet
 - 📫 How to reach me: Only contact acquaintances for now
