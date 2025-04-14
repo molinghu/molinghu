@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: game development, various programming languages, Linux/Unix, various programming skills, useless knowledge
 - 💞️ I’m looking to collaborate on: Not yet
 - 📫 How to reach me: Only contact acquaintances for now
-- ⚡ Fun fact:GitHub is the world's largest gay dating community (
+- ⚡ Fun fact:GitHub is the world's largest same-sex dating community. :)
 
 <!---
 molinghu/molinghu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
